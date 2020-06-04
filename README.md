@@ -8,3 +8,13 @@ Este eh um projeto de criação de conhecimento para integração AWS via Python
 
 
 ## Running
+- Este projeto utiliza Python 3
+- Instale o gerenciador de pacotes pipenv, e depois:
+
+''''
+pip3 install pipenv
+pipenv python -V
+''''
+
+
+
