@@ -13,7 +13,8 @@ Este eh um projeto de criação de conhecimento para integração AWS via Python
 
 ''''
 pip3 install pipenv
-pipenv python -V
+pipenv run python -V
+pipenv run python snap/snap.py
 ''''
 
 
